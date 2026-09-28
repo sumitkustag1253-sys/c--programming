@@ -1,0 +1,7 @@
+# Compiled C programs
+*.out
+a.out
+variables
+
+# Editor backup files
+*.save
